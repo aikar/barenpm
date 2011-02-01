@@ -1,2 +1,2 @@
 #!/usr/bin/env node
-require('../lib/barebpm/console.js');
+require('../lib/barenpm/console.js');
